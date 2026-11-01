@@ -25,7 +25,7 @@ PORT = int(os.getenv("PORT", "10000"))  # Render bu o'zgaruvchini o'zi beradi
 
 # ==== O'ZGARTIRISHINGIZ MUMKIN BO'LGAN QISM ====
 WEBSITE_URL = "https://hayot-yo-li.onrender.com"
-CHANNEL_URL = "https://t.me/+UCpfGMn2R3Y2NmU6"
+CHANNEL_URL = "https://t.me/CodeVerse_python"
 SECOND_BOT_URL = "https://t.me/YashirinAloqaBot"
 MINI_GAME_URL = "https://kichik-oyin.netlify.app/"
 PORTFOLIO_URL = "https://portfolyu2026.netlify.app/"
